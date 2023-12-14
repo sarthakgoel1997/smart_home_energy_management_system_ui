@@ -1,0 +1,22 @@
+.loginBody {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mb-20 {
+    margin-bottom: 16px;
+}
+
+.flex-row-login {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

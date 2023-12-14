@@ -1,0 +1,39 @@
+.margin-20 {
+    margin: 20px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.mr-20 {
+    margin-right: 20px;
+}
+
+.ml-20 {
+    margin-left: 20px;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+.button-margin {
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.mt-90 {
+    margin-top: 90px;
+}
+
+.ml-100 {
+    margin-left: 100px;
+}

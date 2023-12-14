@@ -1,0 +1,18 @@
+.background-logo {
+    position: absolute;
+    bottom: 8%;
+}
+
+.slogan-container {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.slogan {
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(150, 150, 150, 0.8);
+}
